@@ -1,2 +1,2 @@
 # SoundBoard
-Excented soundboard Bot for Discord
+Extented soundboard Bot for Discord
